@@ -6,7 +6,7 @@ discuss:
 ## Relation:-(guide)-> by: Dedoimedo [How to setup bridged networking in KVM - Tutorial](https://www.dedoimedo.com/computers/kvm-bridged.html)
 
 Answer:
-- https://superuser.com/questions/694929/wireless-bridge-on-kvm-virtual-machine/694949#694949
+- **works:** https://superuser.com/questions/694929/wireless-bridge-on-kvm-virtual-machine/694949#694949
 - https://superuser.com/questions/694929/wireless-bridge-on-kvm-virtual-machine
   - relation: https://www.dedoimedo.com/computers/kvm-bridged.html
 
