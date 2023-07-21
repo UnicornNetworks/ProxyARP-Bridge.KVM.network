@@ -1,5 +1,5 @@
 # TAP device
-https://superuser.com/a/1486963
+https://superuser.com/questions/694929/wireless-bridge-on-kvm-virtual-machine/1486963#1486963  
 description:
 >According to KVM's docs, it is not possible to use a bridge with a wireless NIC. I do not know the reason why even though I used to bridge the guest on VirtualBox.
 >
