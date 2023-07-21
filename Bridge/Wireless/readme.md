@@ -17,6 +17,6 @@ quote:
 >
 >I am not sure why the first solution posted in the articled referenced above does not work for you, it did for me and you provide no extra information. Still, you may wish to consider an alternative solution, here, provided by Bohdi Zazen, which uses proxy-arp. I never tried this (sol. n.1 worked for me, so what was the point), but you may give it a chance.
 
-# Solution 2:
+# Solution 2: Proxy arp
 http://blog.bodhizazen.net/linux/bridge-wireless-cards/
 - ark: https://web.archive.org/web/20230000000000*/http://blog.bodhizazen.net/linux/bridge-wireless-cards/
