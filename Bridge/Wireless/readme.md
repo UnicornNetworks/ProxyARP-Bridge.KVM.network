@@ -22,3 +22,9 @@ quote:
 >Edit:
 >
 >I am not sure why the first solution posted in the articled referenced above does not work for you, it did for me and you provide no extra information. Still, you may wish to consider an alternative solution, here, provided by Bohdi Zazen, which uses proxy-arp. I never tried this (sol. n.1 worked for me, so what was the point), but you may give it a chance.
+
+## Alt: Guide:
+sch: https://www.google.com/search?q=virt-manager+tun+tap
+
+# Solution! 3
+https://stty.io/2019/05/13/qemu-vm-wireguard-vpn-tun-tap-networking/
