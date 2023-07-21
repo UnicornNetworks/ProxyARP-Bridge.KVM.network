@@ -26,5 +26,8 @@ quote:
 ## Alt: Guide:
 sch: https://www.google.com/search?q=virt-manager+tun+tap
 
+## Knowledge: Tun TAP
+https://gulraezgulshan.medium.com/virtual-networking-in-linux-b1abcb983e72
+
 # Solution! 3
 https://stty.io/2019/05/13/qemu-vm-wireguard-vpn-tun-tap-networking/
