@@ -26,7 +26,7 @@ xml='''<network>
 </network>'''
 
 virsh define proxyArp $xml_file
-virsh net-dumpxml proxyArp
+virsh net-dumpxml proxyArp >proxyArp.network.xml
 ```
 
 
