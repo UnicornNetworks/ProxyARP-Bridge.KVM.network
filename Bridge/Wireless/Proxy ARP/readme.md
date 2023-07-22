@@ -1,8 +1,9 @@
 sch: https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine
 
 # Solution! This Works!
-**answer: https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine**
-
+**answer: https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine/159198#159198**
+- by: Ramesh on: Oct 4, 2014 at 2:09
+- https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine
 
 
 # Source:
