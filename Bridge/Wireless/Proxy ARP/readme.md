@@ -1,5 +1,9 @@
 sch: https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine
 
+# Solution!
+**Works!**  
+answer: https://unix.stackexchange.com/questions/159191/setup-kvm-on-a-wireless-interface-on-a-laptop-machine
+
 # Guide:
 official: https://wiki.debian.org/BridgeNetworkConnectionsProxyArp
 
