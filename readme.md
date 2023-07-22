@@ -1,6 +1,7 @@
 # VPN-in-KVM-Network
 
-# Problem: KVM with a "default" network (NAT mode) over Wifi, Cannot connect to VPNs!
+# Problem:
+KVM with a "default" network (NAT mode) over Wifi, Cannot connect to VPNs!
 test:
 - PPTP
 
