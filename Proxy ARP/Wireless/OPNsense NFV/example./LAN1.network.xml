@@ -1,0 +1,8 @@
+<network connections='2'>
+  <name>LAN1</name>
+  <uuid>aadd5038-b6ad-4693-9ba9-e0d80a07bd71</uuid>
+  <bridge name='virbr3' stp='on' delay='0'/>
+  <mac address='52:54:00:9a:4a:ab'/>
+  <domain name='LAN1'/>
+</network>
+
